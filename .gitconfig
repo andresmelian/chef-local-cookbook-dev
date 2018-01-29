@@ -1,0 +1,7 @@
+[user]
+	name = Andres
+	email = andres.melian@noviscorp.com
+[core]
+	editor = vim
+[color]
+	ui = auto
